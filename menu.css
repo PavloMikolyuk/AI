@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: 45px;
+    position: relative;
+    top: 40px;
+}
+
+div {
+    position: relative;
+    left: 650px;
+    top: 100px;
+}
+
+a {
+    background-color: #7d7a79;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    margin-right: 30px;
+}
+
+ul, li, p {
+    font-size: 20px;
+    padding: 7px;
+    margin-left: 10px;
+}
+
+.montserrat {
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
